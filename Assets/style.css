@@ -191,7 +191,8 @@ giving the appearance of an image tint  */
 
 #work-desc-title-line-1 {
   position: absolute;
-  font-size: 30px;
+  font-size: 20px;
+ 
 }
 
 #work-desc-title-line-2 {
@@ -232,14 +233,15 @@ giving the appearance of an image tint  */
 .work-1-title-box{
   background-color: var(--cyan);
   position: absolute;
-  width: 10%;
+  width: 15%;
   height: 10%;
   margin-top: 80px;
 }
 
 #work-1-title-line-1 {
   position: absolute;
-  font-size: 30px;
+  font-size: 20px;
+  text-align: left;
 }
 
 #work-1-title-line-2 {
@@ -280,7 +282,7 @@ giving the appearance of an image tint  */
 .work-2-title-box{
   background-color: var(--cyan);
   position: absolute;
-  width: 10%;
+  width: 15%;
   height: 10%;
   margin-top: 80px;
 }
@@ -288,7 +290,9 @@ giving the appearance of an image tint  */
 #work-2-title-line-1
 {
   position: absolute;
-  font-size: 30px;
+  font-size: 20px;
+ text-align: left;
+
 }
 
 #work-2-title-line-2
@@ -425,6 +429,7 @@ footer {
   width: 100%;
   margin-top: 20px;
 }
+
 
 
 
