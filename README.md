@@ -32,5 +32,8 @@ I always wanted to build my own Website.
       * contact Info
 4. When user clicks on Resume button the PDF file will be displayed and can be downloaded by clicking       download button. 
 5. When user clicks on Project title box the page is redirected to respective Github live deployment project Webpage.
-6. When user clicks on LinkedIn button it redirects to LinkedIn profile Web page.
-6. Footer is dedicated to display the website copyright and release information.
+7. When user clicks on LinkedIn button it redirects to LinkedIn profile Web page.
+8. Footer is dedicated to display the website copyright and release information.
+
+###**Live Deployed link:**###
+https://sarasuni.github.io/Updated-Portfolio-07/
